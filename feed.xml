@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Factory News</title>
+    <link>https://aruxvv.github.io/sfn-feed-23443f7c/</link>
+    <atom:link href="https://aruxvv.github.io/sfn-feed-23443f7c/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>A private daily briefing for Andrew Rux on how teams build software factories: agents, CI/CD, gates, and lessons learned.</description>
+    <itunes:author>Software Factory News</itunes:author>
+    <itunes:owner><itunes:name>Andrew Rux</itunes:name></itunes:owner>
+    <itunes:image href="https://aruxvv.github.io/sfn-feed-23443f7c/cover.jpg"/>
+    <image><url>https://aruxvv.github.io/sfn-feed-23443f7c/cover.jpg</url><title>Software Factory News</title><link>https://aruxvv.github.io/sfn-feed-23443f7c/</link></image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Wed 11 Nov 2026: Toward the idea-to-deploy factory</title>
+      <description>Oliver and Sophie walk through six stories (AWS Bedrock AgentCore remote Claude Code sessions, Cursor multiplayer Projects, Van Duc Nguyen&#x27;s agent-fleet gates, Google&#x27;s Agent Distraction study, GitHub Agentic Workflows GA, and CNCF on platform engineering) through the lens of a self-improving, idea-to-deploy software factory, then a deep dive on the autonomous CI/CD stack with examples from StrongDM, Vercel, Chipp and AWS ABCA.</description>
+      <itunes:summary>Oliver and Sophie walk through six stories (AWS Bedrock AgentCore remote Claude Code sessions, Cursor multiplayer Projects, Van Duc Nguyen&#x27;s agent-fleet gates, Google&#x27;s Agent Distraction study, GitHub Agentic Workflows GA, and CNCF on platform engineering) through the lens of a self-improving, idea-to-deploy software factory, then a deep dive on the autonomous CI/CD stack with examples from StrongDM, Vercel, Chipp and AWS ABCA.</itunes:summary>
+      <enclosure url="https://aruxvv.github.io/sfn-feed-23443f7c/episodes/software-factory-news-2026-11-11-56k.mp3" length="19921932" type="audio/mpeg"/>
+      <guid isPermaLink="false">sfn-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <itunes:duration>0:47:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://aruxvv.github.io/sfn-feed-23443f7c/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
