@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Valuation AI Briefing</title>
+    <link>https://aruxvv.github.io/sfn-feed-23443f7c/vai/</link>
+    <atom:link href="https://aruxvv.github.io/sfn-feed-23443f7c/vai/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>A private daily briefing for Andrew Rux on AI tooling and automation for valuation firms, with special focus on litigation support and healthcare-related valuations.</description>
+    <itunes:author>Valuation AI Briefing</itunes:author>
+    <itunes:owner><itunes:name>Andrew Rux</itunes:name></itunes:owner>
+    <itunes:image href="https://aruxvv.github.io/sfn-feed-23443f7c/vai/cover.jpg"/>
+    <image><url>https://aruxvv.github.io/sfn-feed-23443f7c/vai/cover.jpg</url><title>Valuation AI Briefing</title><link>https://aruxvv.github.io/sfn-feed-23443f7c/vai/</link></image>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Valuation AI Briefing - Wed 11 Nov 2026</title>
+      <description><![CDATA[<p>Daily briefing on AI tooling and automation for valuation firms, focused on litigation support and healthcare valuations, and how the day&#x27;s stories could be useful to a firm like Strategic Value Group.</p><p><strong>Sources discussed:</strong></p><ul><li><a href="https://nacva.valusource.com/quarterly-ai-update-for-valuators-getting-started-with-agents/">Quarterly AI Update for Valuators: Getting Started with Agents (NACVA/ValuSource)</a></li><li><a href="https://www.ecgmc.com/insights/blog/ai-and-fmv-balancing-innovation-with-professional-judgment">AI and FMV: Balancing Innovation with Professional Judgment (ECG Management Consultants)</a></li><li><a href="https://www.prnewswire.com/news-releases/marshall--stevens-acquires-baumann-moreau-expanding-florida-footprint-and-strengthening-litigation-support-practice-302935800.html">Marshall &amp; Stevens Acquires Baumann Moreau, Expanding Florida Footprint and Strengthening Litigation Support Practice (PR Newswire)</a></li><li><a href="https://www.bvresources.com/blogs/bvwire-news/2026/11/10/ai-and-the-valuer-which-judgments-should-never-be-delegated">AI and the Valuer: Which Judgments Should Never Be Delegated (Business Valuation Resources)</a></li><li><a href="https://www.bvresources.com/articles/bvwire/what-we-learned-at-the-aicpas-fvs-conference">What we learned at the AICPA’s FVS Conference (Business Valuation Resources)</a></li></ul>]]></description>
+      <content:encoded><![CDATA[<p>Daily briefing on AI tooling and automation for valuation firms, focused on litigation support and healthcare valuations, and how the day&#x27;s stories could be useful to a firm like Strategic Value Group.</p><p><strong>Sources discussed:</strong></p><ul><li><a href="https://nacva.valusource.com/quarterly-ai-update-for-valuators-getting-started-with-agents/">Quarterly AI Update for Valuators: Getting Started with Agents (NACVA/ValuSource)</a></li><li><a href="https://www.ecgmc.com/insights/blog/ai-and-fmv-balancing-innovation-with-professional-judgment">AI and FMV: Balancing Innovation with Professional Judgment (ECG Management Consultants)</a></li><li><a href="https://www.prnewswire.com/news-releases/marshall--stevens-acquires-baumann-moreau-expanding-florida-footprint-and-strengthening-litigation-support-practice-302935800.html">Marshall &amp; Stevens Acquires Baumann Moreau, Expanding Florida Footprint and Strengthening Litigation Support Practice (PR Newswire)</a></li><li><a href="https://www.bvresources.com/blogs/bvwire-news/2026/11/10/ai-and-the-valuer-which-judgments-should-never-be-delegated">AI and the Valuer: Which Judgments Should Never Be Delegated (Business Valuation Resources)</a></li><li><a href="https://www.bvresources.com/articles/bvwire/what-we-learned-at-the-aicpas-fvs-conference">What we learned at the AICPA’s FVS Conference (Business Valuation Resources)</a></li></ul>]]></content:encoded>
+      <itunes:summary>Daily briefing on AI tooling and automation for valuation firms, focused on litigation support and healthcare valuations, and how the day&#x27;s stories could be useful to a firm like Strategic Value Group.
+
+Sources discussed:
+- Quarterly AI Update for Valuators: Getting Started with Agents (NACVA/ValuSource): https://nacva.valusource.com/quarterly-ai-update-for-valuators-getting-started-with-agents/
+- AI and FMV: Balancing Innovation with Professional Judgment (ECG Management Consultants): https://www.ecgmc.com/insights/blog/ai-and-fmv-balancing-innovation-with-professional-judgment
+- Marshall &amp; Stevens Acquires Baumann Moreau, Expanding Florida Footprint and Strengthening Litigation Support Practice (PR Newswire): https://www.prnewswire.com/news-releases/marshall--stevens-acquires-baumann-moreau-expanding-florida-footprint-and-strengthening-litigation-support-practice-302935800.html
+- AI and the Valuer: Which Judgments Should Never Be Delegated (Business Valuation Resources): https://www.bvresources.com/blogs/bvwire-news/2026/11/10/ai-and-the-valuer-which-judgments-should-never-be-delegated
+- What we learned at the AICPA’s FVS Conference (Business Valuation Resources): https://www.bvresources.com/articles/bvwire/what-we-learned-at-the-aicpas-fvs-conference</itunes:summary>
+      <enclosure url="https://aruxvv.github.io/sfn-feed-23443f7c/vai/episodes/valuation-ai-briefing-2026-11-11-56k.mp3" length="16721200" type="audio/mpeg"/>
+      <guid isPermaLink="false">vai-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0800</pubDate>
+      <itunes:duration>0:39:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://aruxvv.github.io/sfn-feed-23443f7c/vai/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
