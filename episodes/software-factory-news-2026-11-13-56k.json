@@ -1,0 +1,54 @@
+{
+ "sources": [
+  [
+   "Agents under a coordinator: what broke, and how we caught it (Oussama Abid)",
+   "https://blog.krizaka.com/basics/agents-under-a-coordinator/"
+  ],
+  [
+   "Coordinating coding agents in a large codebase (Christopher Weir)",
+   "https://christopher-weir.com/2026/11/coordinating-coding-agents-in-a-large-codebase"
+  ],
+  [
+   "Build the agent around where the work happens (Hoang Nguyen, ShopBack)",
+   "https://codeaholicguy.com/2026/11/12/build-the-agent-around-where-the-work-happens/"
+  ],
+  [
+   "Agents write code fast. The hard part is knowing if it works. (Vamsi Pandari, ReasonOS - vendor post)",
+   "https://blog.reasonos.com/agents-write-code-fast-the-hard-part-is-knowing-if-it-works/"
+  ],
+  [
+   "Show HN: AgentRun - open-source, Self-improving Managed Agents (Hacker News thread)",
+   "https://news.ycombinator.com/item?id=50471650"
+  ],
+  [
+   "Introducing AgentRun: Run smarter agents. Use fewer tokens. (AgentRun blog - vendor post)",
+   "https://agentrun.ai/blog/introducing-agentrun-run-smarter-agents-use-fewer-tokens"
+  ],
+  [
+   "AgentRun on GitHub (Parcha-ai/agentrun)",
+   "https://github.com/Parcha-ai/agentrun"
+  ],
+  [
+   "Build once, run on any agent: A practical guide to agent skills (GitHub Blog, Andrea Griffiths)",
+   "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+  ],
+  [
+   "GitHub Agentic Workflows blog - Agent of the Day (Daily A/B Testing Advisor)",
+   "https://github.github.com/gh-aw/blog/authors/copilot/"
+  ],
+  [
+   "Fleet Management for AI Coding Agents: Architecting the New DevOps Control Plane (Tamiz Uddin, DEV)",
+   "https://dev.to/tamizuddin/fleet-management-for-ai-coding-agents-architecting-the-new-devops-control-plane-7no"
+  ],
+  [
+   "Actions for ARM32 Linux & Windows retirement (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement/"
+  ],
+  [
+   "Secret scanning detects Cloudflare service tokens (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare/"
+  ]
+ ],
+ "title": "Software Factory News - Fri 13 Nov 2026",
+ "description": "Friday's theme is coordination. Oliver and Sophie dig into Oussama Abid's measurements of 1,782 agent PRs under a deterministic lease coordinator ('a rule an agent has to remember is not a rule'), Christopher Weir's ringleader thread running ~90 Claude Code workers, ShopBack's Slack-based domain agents and their safety lessons, a ReasonOS vendor post on putting rules in the build rather than the prompt, the AgentRun Show HN and its comment thread on agentic merge queues for Dependabot PRs, GitHub's portable agent skills and a Proof Agent verifier that never sees the coding agent's self-report, plus fleet control planes and two GitHub changelog items. Each story is mapped to Andrew's Cursor/GitHub/Azure factory, ending with one practical idea: make staging-failure alerts durable until acknowledged."
+}
