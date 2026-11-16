@@ -1,0 +1,58 @@
+{
+ "sources": [
+  [
+   "All Code Is Slop (Except Mine) - Lauren Tan, AI Engineer Code Summit (talk page and transcript)",
+   "https://ai.engineer/talks/O_zcc6Xl12g-all-code-is-slop-except-mine"
+  ],
+  [
+   "Grok Bot team shipped 11,000 pull requests in a month, Lauren Tan says (Sulat AI & Tech News)",
+   "https://news.sulat.com/2026/11/16/lauren-tan-ai-engineer-talk/"
+  ],
+  [
+   "What We Learned Building an AI Software Factory (Foxl)",
+   "https://foxl.ai/blog/ai-factory"
+  ],
+  [
+   "Your coding agent shouldn't grade its own homework (Stack Overflow Blog, Momentic - vendor)",
+   "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/"
+  ],
+  [
+   "Take the merge out of the agent's session, and let a skill do the checks before I merge (Hiroki Kondo, karasu weekly)",
+   "https://dev.to/kompiro/take-the-merge-out-of-the-agents-session-and-let-a-skill-do-the-checks-before-i-merge-karasu-54cc"
+  ],
+  [
+   "Our agent's tests passed. CI would have failed. What our merge gate caught last week (Rodrigo Lemela Duarte, DEV)",
+   "https://dev.to/rodrigo-duarte/our-agents-tests-passed-ci-would-have-failed-what-our-merge-gate-caught-last-week-14d0"
+  ],
+  [
+   "How I Merged 141 Pull Requests in One Day (Ryan X. Charles)",
+   "https://ryanxcharles.com/blog/2026-11-15-how-i-merged-141-pull-requests-in-one-day"
+  ],
+  [
+   "The Factory Learns (David Salathe)",
+   "https://blog.dsalathe.dev/posts/agent-factory/the-factory-learns/"
+  ],
+  [
+   "Do AI coding agents care about SemVer? (Microsoft for Developers, Waldek Mastykarz)",
+   "https://developer.microsoft.com/blog/do-ai-coding-agents-care-about-semver/"
+  ],
+  [
+   "Git security vulnerabilities announced - Git 2.56.1 (GitHub Blog)",
+   "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/"
+  ],
+  [
+   "Manage AI Scan for repositories using the REST API (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api/"
+  ],
+  [
+   "Projects redesigned: from folder to conversation (Claude by Anthropic)",
+   "https://claude.com/resources/articles/projects-redesigned"
+  ],
+  [
+   "Anthropic upgrades Claude Code Projects to run parallel AI workers (Hacker News thread)",
+   "https://news.ycombinator.com/item?id=50492141"
+  ]
+ ],
+ "title": "Mon 16 Nov: The Maker Never Clears Its Own Work",
+ "description": "Lauren Tan's 11,000-PR month and lint-over-prose pyramid with Cursor Projects release fuzzing; Foxl's 20-agent factory and refuting reviewers; Momentic's independent verifier; karasu moves merges out of the agent session; one-merger gates; Ryan X. Charles's 141 PRs in a day; a governed factory register; SemVer bias in agent dependency upgrades; Git 2.56.1."
+}
