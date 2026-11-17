@@ -1,0 +1,62 @@
+{
+ "sources": [
+  [
+   "How the Claude Code team thinks about verification (Addy Osmani, claude.dev)",
+   "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
+  ],
+  [
+   "Hacker News discussion: How the Claude Code team thinks about verification",
+   "https://news.ycombinator.com/item?id=50529612"
+  ],
+  [
+   "Code review at Linear (How Teams Build, Edition 02)",
+   "https://linear.app/data/code-review"
+  ],
+  [
+   "Rollout: Linear passes 53% of PRs with agent and author only (Japanese)",
+   "https://rollout.sagus.io/linear-agent-review-self-approve-prs"
+  ],
+  [
+   "Claudiu Branzan: Building an Autonomous Software Factory - Architecture, War Stories and Hard-Won Lessons",
+   "https://medium.com/@claudiubranzan/building-an-autonomous-software-factory-architecture-war-stories-and-hard-won-lessons-6e2e2a0a5457"
+  ],
+  [
+   "Yiğit Tanrıverdi: My AI agents wrote four changes overnight. Tests passed. Each had a hole",
+   "https://dev.to/xgame92/my-ai-agents-wrote-four-changes-overnight-tests-passed-each-had-a-hole-1n1b"
+  ],
+  [
+   "Kay (Latchkey): How to build a coding agent CI pipeline",
+   "https://dev.to/kalemi/how-to-build-a-coding-agent-ci-pipeline-3ln6"
+  ],
+  [
+   "Mastra: Introducing Custom Factory Program",
+   "https://mastra.ai/blog/introducing-custom-factory-program"
+  ],
+  [
+   "OpenCrawl: Multiplayer for your coding agents",
+   "https://getopencrawl.com/"
+  ],
+  [
+   "GitHub Changelog: Dependabot alert dismissal requests now last one year",
+   "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year/"
+  ],
+  [
+   "GitHub Changelog: Bulk start AI Scan for repositories",
+   "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories/"
+  ],
+  [
+   "GitHub Changelog: Control where GitHub Copilot customizations come from",
+   "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from/"
+  ],
+  [
+   "GitHub Changelog: GitHub Copilot models deprecated on November 16, 2026",
+   "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026/"
+  ],
+  [
+   "GitHub Changelog: VS Code retires the Local harness in February 2027",
+   "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027/"
+  ]
+ ],
+ "title": "Green Is Not the Same as Proven",
+ "description": "Claude Code's diff-triggered verification checklist, Linear's 53% author-only merges and where humans still review, a factory with a staging train and auto-rollback, four holes behind a green suite, the GITHUB_TOKEN trigger gap, and Mastra's factory numbers."
+}
