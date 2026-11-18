@@ -1,0 +1,58 @@
+{
+ "sources": [
+  [
+   "We Ran Seven Coding Agents in Parallel. Then We Went Back to One. (Nabil A, DEV)",
+   "https://dev.to/nabil_since_dev/we-ran-seven-coding-agents-in-parallel-then-we-went-back-to-one-21k4"
+  ],
+  [
+   "Building a gated review pipeline for AI coding agents on AWS (AWS DevOps Blog)",
+   "https://aws.amazon.com/blogs/devops/building-a-gated-review-pipeline-for-ai-coding-agents-on-aws/"
+  ],
+  [
+   "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "https://news.ycombinator.com/item?id=50536468"
+  ],
+  [
+   "StarSling (vendor site)",
+   "https://starsling.dev"
+  ],
+  [
+   "StarSling open skills on GitHub",
+   "https://github.com/starslingdev/skills"
+  ],
+  [
+   "GitHub Event Streams is now in preview (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-17-github-event-streams-is-now-in-preview/"
+  ],
+  [
+   "Secret scanning on demand for developers and agents (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-17-secret-scanning-on-demand-for-developers-and-agents/"
+  ],
+  [
+   "GitHub Copilot Evals is now in public preview (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview/"
+  ],
+  [
+   "Track Copilot code review outcomes in Repository insights (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights/"
+  ],
+  [
+   "What's new in Azure SRE Agent at Microsoft Ignite 2026 (Microsoft Tech Community)",
+   "https://techcommunity.microsoft.com/blog/appsonazureblog/what%E2%80%99s-new-in-azure-sre-agent-at-microsoft-ignite-2026/4573607"
+  ],
+  [
+   "GitHub Copilot app: Microsoft Ignite releases (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases/"
+  ],
+  [
+   "You let the agent merge its own PR. CI was green. That's the problem. (Powerduck blog)",
+   "https://blogs.powerduck.com/agent-auto-merges-own-pr"
+  ],
+  [
+   "Why we built Satoru, our background coding agent (Roboto Studio)",
+   "https://robotostudio.com/blog/why-we-built-our-own-background-agent"
+  ]
+ ],
+ "title": "Where the Bottleneck Moved",
+ "description": "Accuracy over parallelism: Nabil A on going from seven parallel coding agents back to one, AWS's six-control gated review pipeline with risk tiers, StarSling's A/B-tested self-improving CI, GitHub Event Streams and new agent safety and measurement tools, and Azure SRE Agent at Ignite. Practical idea: a deterministic risk-tier labeller for every agent PR."
+}
