@@ -1,0 +1,78 @@
+{
+ "sources": [
+  [
+   "KPMG's \"Project Exponential\" put AI agents alongside a real audit team (The Decoder)",
+   "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/"
+  ],
+  [
+   "KPMG says AI asks \"better questions\" than auditors during trial scheme (ITPro)",
+   "https://www.itpro.com/technology/artificial-intelligence/kpmg-says-ai-asks-better-questions-than-auditors-during-trial-scheme-but-concerns-remain"
+  ],
+  [
+   "New guidance supports auditor independence when using technology, including AI (FRC)",
+   "https://www.frc.org.uk/news-and-events/news/2026/11/new-guidance-supports-auditor-independence-when-using-technology-including-ai/"
+  ],
+  [
+   "Watchdog warns audit firms not to use AI to woo advisory clients (City AM)",
+   "https://www.cityam.com/watchdog-warns-audit-firms-not-to-use-ai-to-woo-advisory-clients/"
+  ],
+  [
+   "Using ChatGPT for accounting work (OpenAI Help Center)",
+   "https://help.openai.com/en/articles/20001709-using-chatgpt-for-accounting-work"
+  ],
+  [
+   "Xero expands OpenAI integration, bringing month-end close review to ChatGPT for Accounting (Xero)",
+   "https://blog.xero.com/news-events/openai-integration-chatgpt-for-accounting/"
+  ],
+  [
+   "OpenAI opens Astra for Law to all ChatGPT Enterprise customers (LawSites)",
+   "https://www.lawnext.com/2026/11/openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-releases-new-benchmark-results.html"
+  ],
+  [
+   "The Feature Effect: Running a Matter in Harvey Spaces (Harvey)",
+   "https://www.harvey.ai/blog/the-feature-effect-running-a-matter-in-harvey-spaces"
+  ],
+  [
+   "Reduce costs using Background Mode with completion windows (OpenAI Developer Community)",
+   "https://community.openai.com/t/reduce-costs-using-background-mode-with-completion-windows/1418130"
+  ],
+  [
+   "Anthropic IPO raises over $81 billion in largest offering on record (CNBC)",
+   "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+  ],
+  [
+   "The Rocky Road from Aggregate to Per Share Value: Anthropic's IPO update (Aswath Damodaran)",
+   "https://aswathdamodaran.blogspot.com/2026/11/the-rocky-road-from-aggregate-to-per.html"
+  ],
+  [
+   "Felicis leads $7.5M bet on Unsiloed AI (TechCrunch)",
+   "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+  ],
+  [
+   "CMS CRUSH proposed rule aims to reap nearly $90 billion (HHS)",
+   "https://www.hhs.gov/press-room/cms-crush-rule-targets-healthcare-fraud-saves-90-billion.html"
+  ],
+  [
+   "CMS's CRUSH proposed rule: what RADV extrapolation means for Medicare Advantage (RISE Health)",
+   "https://www.risehealth.org/insights-articles/article/cms-crush-proposed-rule-medicare-advantage/"
+  ],
+  [
+   "The AAA's AI Arbitrator is now available for commercial cases (AAA)",
+   "https://www.adr.org/press-releases/ai-arbitrator-now-available-for-commercial-cases/"
+  ],
+  [
+   "AAA expands its AI Arbitrator to business-to-business disputes (LawSites)",
+   "https://www.lawnext.com/2026/11/aaa-expands-its-ai-arbitrator-to-handle-a-variety-of-business-to-business-disputes.html"
+  ],
+  [
+   "'Why Would You Need to Ask Gemini?': Illinois Supreme Court justices grill NLJ 500 attorney (Law.com)",
+   "https://www.law.com/2026/11/18/why-would-you-need-to-ask-gemini-illinois-supreme-court-justices-grill-nlj-500-attorney-over-research-methods/"
+  ],
+  [
+   "Proposed Rule 707 and AI Evidence (Intellex)",
+   "https://intellex.com/expert-insights/proposed-rule-707-ai-evidence/"
+  ]
+ ],
+ "title": "KPMG's 100-agent audit, OpenAI for accountants and lawyers, Anthropic's share count, and CMS's CRUSH rule",
+ "description": "KPMG UK's Project Exponential parallel audit and the FRC's AI independence guidance; ChatGPT for Accounting, Astra for Law, Harvey Spaces and cheaper overnight tokens; Anthropic's $83 IPO and Damodaran on per-share value; Unsiloed AI seed; CMS CRUSH RADV extrapolation; AAA AI Arbitrator for commercial cases; Illinois Supreme Court AI citations hearing."
+}
