@@ -1,0 +1,74 @@
+{
+ "sources": [
+  [
+   "Harvard researchers find AI coding agents shifted the bottleneck to code review (ComplexDiscovery)",
+   "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+  ],
+  [
+   "Hacker News discussion: Harvard AI coding agents and code review",
+   "https://news.ycombinator.com/item?id=50538303"
+  ],
+  [
+   "What my software factory built (Recursive AI, Kurtis Welch)",
+   "https://recursiveai.org/blog/what-my-software-factory-built/"
+  ],
+  [
+   "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "https://news.ycombinator.com/item?id=50548660"
+  ],
+  [
+   "Mastra Factory template repository",
+   "https://github.com/mastra-ai/template-factory"
+  ],
+  [
+   "Introducing Vercel Board",
+   "https://vercel.com/blog/introducing-vercel-board"
+  ],
+  [
+   "GitHub Changelog: Wait for pull request events with GitHub CLI",
+   "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli"
+  ],
+  [
+   "GitHub Changelog: Copilot code review Adaptive effort, secret detection, and more",
+   "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more"
+  ],
+  [
+   "Official Microsoft agent-framework PyPI package compromised (OpenSourceMalware)",
+   "https://opensourcemalware.com/blog/agent-framework-pypi-compromised"
+  ],
+  [
+   "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie (Sarvar Nadaf)",
+   "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7"
+  ],
+  [
+   "sudo L7: Can coding agents act like staff engineers? (Surge AI)",
+   "https://surgehq.ai/blog/sudo-l7"
+  ],
+  [
+   "Introducing Islo: the safe way to run enterprise software factories",
+   "https://islo.dev/blog/launching-islo-enterprise-software-factories/"
+  ],
+  [
+   "Introducing Stitch Loop (Google Labs)",
+   "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
+  ],
+  [
+   "Stop deploying to ECS just to see if your code works (MetalBear mirrord)",
+   "https://metalbear.com/blog/stop-deploying-to-ecs/"
+  ],
+  [
+   "External sandboxes for coding agents (Simon Willison)",
+   "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"
+  ],
+  [
+   "VB Harness: make local coding agents verify their own work",
+   "https://github.com/Viktotovich/vb-harness-for-agentic-building"
+  ],
+  [
+   "Self-Improvement Memory Enables Continual Recursive Self-Improvement (arXiv)",
+   "https://arxiv.org/abs/2611.18856"
+  ]
+ ],
+ "title": "Proof, Not Promises",
+ "description": "Harvard data on the review bottleneck, a one-person factory that shipped 30 libraries, Mastra Factory goes open source, Vercel Board, gh event listen, Copilot Adaptive review, the agent-framework PyPI compromise, a proof gate where no model grades the model, sudo L7, and an improvement ledger idea."
+}
