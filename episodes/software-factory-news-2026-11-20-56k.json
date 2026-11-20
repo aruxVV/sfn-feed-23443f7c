@@ -1,0 +1,66 @@
+{
+ "sources": [
+  [
+   "Teach an agent to fish and it will maintain your code for a lifetime (AWS Builder Center, Matt Goldberg)",
+   "https://builder.aws.com/content/3MLGDWXY8MA3cdDNL2o1P9yjyP4/teach-an-agent-to-fish-and-it-will-maintain-your-code-for-a-lifetime"
+  ],
+  [
+   "How We Build, Ship, and Support Software with AI Agents (Brain Co.)",
+   "https://brain.co/blog/how-we-build-ship-and-support-software-with-ai-agents"
+  ],
+  [
+   "Aviator: HubSpot's Agent Harness (HubSpot Engineering)",
+   "https://hubspot.engineering/blog/aviator-hubspots-agent-harness/"
+  ],
+  [
+   "How We Built Shipmate, and How We Used Jellyfish to Prove It Made Us Faster",
+   "https://jellyfish.co/blog/how-we-built-an-ai-coding-agent/"
+  ],
+  [
+   "Becoming a factory engineer (Warp, Ben Holmes)",
+   "https://www.warp.dev/blog/factory-engineering-software-factories"
+  ],
+  [
+   "Multi Agent Coordination Bench (Bespoke Labs)",
+   "https://benchmarks.bespokelabs.ai/multi-agent-coordination-bench/"
+  ],
+  [
+   "Inside the Codex sandbox (OpenAI)",
+   "https://openai.com/index/inside-the-codex-sandbox/"
+  ],
+  [
+   "GitLab: Keep recurring work moving with scheduled automations",
+   "https://about.gitlab.com/blog/gitlab-scheduled-automations/"
+  ],
+  [
+   "GitLab: The best way to use your coding agents with GitLab",
+   "https://about.gitlab.com/blog/coding-agents-with-gitlab/"
+  ],
+  [
+   "GitLab: Turn Slack conversations into trusted software, faster",
+   "https://about.gitlab.com/blog/gitlab-slack-integration-for-software-factory/"
+  ],
+  [
+   "GitHub Changelog: Improvements on the pull request overview in public preview",
+   "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview"
+  ],
+  [
+   "GitHub Changelog (Nov 19: RHEL runner images GA, Azure DevOps Enterprise Live Migrations GA)",
+   "https://github.blog/changelog/"
+  ],
+  [
+   "Introducing Volcano, a self-healing agent cloud by Kong",
+   "https://volcano.dev/blog/introducing-volcano-agent-cloud"
+  ],
+  [
+   "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "https://news.ycombinator.com/item?id=50549188"
+  ],
+  [
+   "If you stop writing code, you also get worse at reviewing it (cekrem)",
+   "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/"
+  ]
+ ],
+ "title": "Teach the Factory, Not the Fish",
+ "description": "AWS Emulator's five ways to steer agents (17,392 issues fixed, 5K-line merge gate), Brain Co.'s ungameable auto-approval, HubSpot's Aviator harness (2,500+ PRs/week), Jellyfish Shipmate's measured gains, Warp on factory engineering, MAC Bench on agent coordination, the Codex sandbox, GitLab 19.6, and a weekly wrap."
+}
