@@ -1,0 +1,62 @@
+{
+ "sources": [
+  [
+   "Building a Software Factory (Runway, Alejandro Alvarez)",
+   "https://runway.com/news/engineering/building-a-software-factory"
+  ],
+  [
+   "Moving fast with AI, without losing control (Dash0, Judith Redi; vendor: AutoMerge)",
+   "https://www.dash0.com/blog/moving-fast-with-ai-without-losing-control"
+  ],
+  [
+   "How OpenAI's Performance Factory keeps ChatGPT fast (OpenAI)",
+   "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"
+  ],
+  [
+   "What our CI fixes measured: shorter queues, one claim of ours that was wrong, and a 16-hour block (Mouve)",
+   "https://mouve.it/blog/what-our-ci-fixes-measured"
+  ],
+  [
+   "For the days CI gets jammed: tettuan's four Claude Code agents and one integration branch (Working Surface summary)",
+   "https://workingsurface.ai/links/2026-11-22-03/"
+  ],
+  [
+   "How to build a knowledge factory (LangChain, Harrison Chase; vendor)",
+   "https://www.langchain.com/blog/knowledge-factory"
+  ],
+  [
+   "RunPod MCP server instructs agents to conceal a rating from users (GitHub issue #202)",
+   "https://github.com/runpod/runpod-mcp/issues/202"
+  ],
+  [
+   "Taskless: rules for agents (vendor, MIT CLI)",
+   "https://www.taskless.io/"
+  ],
+  [
+   "Show HN: Taskless, turn AGENTS.md and PR comments into runnable checks",
+   "https://news.ycombinator.com/item?id=50603421"
+  ],
+  [
+   "What I Learned Building Evaluations for Coding Agents (DBLC)",
+   "https://dblc.fyi/blog/a-retrospective-on-ai-evaluations/"
+  ],
+  [
+   "Red builds need a human, so reach the fix from the coding agent (Harness; vendor)",
+   "https://www.harness.io/blog/google-antigravity-ci-cd"
+  ],
+  [
+   "GitHub Changelog: pull_request_target blocked by default December 2",
+   "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2"
+  ],
+  [
+   "GitHub Changelog: Security advisory permissions are now generally available",
+   "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available"
+  ],
+  [
+   "GitHub Changelog: GitHub Enterprise Server 3.23 release candidate",
+   "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate"
+  ]
+ ],
+ "title": "The Line Runs Itself, Where the Rules Allow",
+ "description": "Runway hands every delivery station to agents (AI-only approvals reverted 1 in 1,000), Dash0's scored auto-approval with floors, OpenAI's Performance Factory, Mouve's 16-hour flaky-test misdiagnosis, batching agent work through one integration branch, LangChain's knowledge factory, and RunPod's hidden MCP rating request. Practical idea: a shadow approver with floors."
+}
