@@ -1,0 +1,78 @@
+{
+ "sources": [
+  [
+   "Grant Thornton: AI audits risk a race to the bottom (Resultsense, summarising the Financial Times)",
+   "https://www.resultsense.com/news/2026-11-23-grant-thornton-ai-audit-race-to-bottom/"
+  ],
+  [
+   "Should the auditor or the AI go first? UK audit splits on agents (Resultsense)",
+   "https://www.resultsense.com/insights/2026-11-24-ai-audit-big-four-mid-tier-regulator/"
+  ],
+  [
+   "AI Might Be Flooding State Court Houses, but Proving It Is Another Matter (Stanford HAI)",
+   "https://hai.stanford.edu/news/ai-might-be-flooding-state-court-houses-but-proving-it-is-another-matter"
+  ],
+  [
+   "One-Third of 2 Bay Area Courts' Filings May Be AI-Generated, Study Says (Law.com)",
+   "https://www.law.com/therecorder/2026/11/24/one-third-of-2-bay-area-courts-filings-may-be-ai-generated-study-says/"
+  ],
+  [
+   "97% of firms that use AI have people check at least some outputs (Accounting Today)",
+   "https://www.accountingtoday.com/news/97-of-firms-that-use-ai-have-people-check-at-least-some-outputs"
+  ],
+  [
+   "AICPA publishes proposed updates to SOC 2 description criteria (Journal of Accountancy)",
+   "https://www.journalofaccountancy.com/news/2026/nov/aicpa-publishes-proposed-updates-to-soc-2-description-criteria/"
+  ],
+  [
+   "Proposed SOC 2 changes lower disclosure threshold, add AI disclosures (Accounting Today)",
+   "https://www.accountingtoday.com/news/proposed-soc-2-changes-lower-disclosure-threshold-add-ai-disclosures"
+  ],
+  [
+   "Statement Regarding Recent Personal Health Information Security Incident (Tahoe Forest Health System)",
+   "https://www.tfhd.com/news/statement-regarding-recent-personal-health-information-security-incident/"
+  ],
+  [
+   "Healthcare AI Guy Weekly, 11/24",
+   "https://www.healthcareaiguy.com/p/healthcare-ai-guy-weekly-11-24"
+  ],
+  [
+   "AI and Expert Witnesses: Key Conference Takeaways (Bond Solon)",
+   "https://www.bondsolon.com/news-and-insights/ai-and-expert-witnesses-key-conference/"
+  ],
+  [
+   "Parallel acquires Methodim to accelerate the expansion of its AI agents beyond acute care (Parallel)",
+   "https://www.beparallel.com/blog/parallel-acquires-methodim-to-accelerate-the-expansion-of-its-ai-agents-beyond-acute-care"
+  ],
+  [
+   "Defending Physician Hyper-Productivity (FTI Consulting)",
+   "https://www.fticonsulting.com/insights/articles/outlier-problem-defending-physician-hyper-productivity"
+  ],
+  [
+   "Savant Labs Brings Token-Efficient Finance Workflows to Gemini (EIN Presswire)",
+   "https://www.einpresswire.com/article/958765471/savant-labs-brings-token-efficient-finance-workflows-to-gemini"
+  ],
+  [
+   "ILS (Intelligent Legal Solutions) Raises $11 Million Series A Co-Led by Aquiline and BlackFin (Business Wire)",
+   "https://www.businesswire.com/news/home/20261124389633/en/ILS-Intelligent-Legal-Solutions-Raises-$11-Million-Series-A-Co-Led-by-Aquiline-and-BlackFin"
+  ],
+  [
+   "Visual Studio November Update – Faster Workflows, Better Reviews (Visual Studio Blog)",
+   "https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-faster-workflows-better-reviews/"
+  ],
+  [
+   "IRS official signals additional guidance on AI, practitioner fees (Journal of Accountancy)",
+   "https://www.journalofaccountancy.com/news/2026/nov/irs-official-signals-additional-guidance-on-ai-practitioner-fees/"
+  ],
+  [
+   "Reversa raises €750K to automate regulatory processes with AI agents (Tech.eu)",
+   "https://tech.eu/2026/11/24/reversa-raises-eur750k-to-automate-regulatory-processes-with-ai-agents/"
+  ],
+  [
+   "The RICS expert witness standard and the Australian rules (Expert Services International on X)",
+   "https://x.com/QuantumExperts/status/2125356343569916022"
+  ]
+ ],
+ "title": "Valuation AI Briefing - Wed 25 Nov 2026: Grant Thornton's human-first audit, Stanford on AI detectors in court, how firms really review AI, a hospital's ChatGPT breach",
+ "description": "A quiet pre-Thanksgiving day, focused on what reviewing AI work really means: Grant Thornton's 'human goes first' challenge to agent-led audits, a Stanford study showing AI detectors are unreliable on court filings, new data on how accounting firms check AI output, the AICPA's proposed SOC 2 AI guidance, Tahoe Forest's ChatGPT PHI breach, Parallel's Methodim deal, and deterministic-core design from Savant Labs, ILS and Visual Studio."
+}
