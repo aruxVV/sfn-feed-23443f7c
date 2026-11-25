@@ -1,0 +1,74 @@
+{
+ "sources": [
+  [
+   "Introducing Claude Ship (Anthropic; vendor)",
+   "https://claude.com/resources/articles/introducing-claude-ship"
+  ],
+  [
+   "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes (TechCrunch, Sarah Perez)",
+   "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  ],
+  [
+   "Set up Claude Approvals (Anthropic docs; vendor)",
+   "https://code.claude.com/docs/en/approvals-setup"
+  ],
+  [
+   "Claude Approvals and your GitHub rules (Anthropic docs; vendor)",
+   "https://code.claude.com/docs/en/approvals-github-rules"
+  ],
+  [
+   "What PR Steward can access (Anthropic docs; vendor)",
+   "https://code.claude.com/docs/en/pr-steward-security"
+  ],
+  [
+   "PR Steward (Anthropic docs; vendor)",
+   "https://code.claude.com/docs/en/pr-steward"
+  ],
+  [
+   "My AI coding agents spend most of their time waiting (Juraj Blahunka)",
+   "https://jurajb.dev/coding-agents-mostly-waiting/"
+  ],
+  [
+   "GitHub sends events late, twice, or never (Félix, MONEI)",
+   "https://dev.to/monei/github-sends-events-late-twice-or-never-4h7"
+  ],
+  [
+   "Type errors cost our coding agents under 1% of their time (Evil Martians, Irina Nazarova; consultancy)",
+   "https://evilmartians.com/chronicles/type-errors-cost-our-coding-agents-under-one-percent-of-their-time"
+  ],
+  [
+   "Ephyra: A new agentic property-based testing library (Datadog, Alp Keles; vendor research, open source)",
+   "https://www.datadoghq.com/blog/ai/agentic-property-based-testing-with-ephyra/"
+  ],
+  [
+   "12 Rules for a Software Factory That Doesn't Ship Slop (Dex Horthy, Factory; AI Engineer talk)",
+   "https://www.youtube.com/watch?v=-NFMsM2y0Vk"
+  ],
+  [
+   "Talk summary: 12 Rules for a Software Factory That Doesn't Ship Slop (BigGo third-party summary)",
+   "https://finance.biggo.com/podcast/7ec0c7474a6d6c49"
+  ],
+  [
+   "The Pull Request Is Dead (Codeship Labs, Mo Plassnig; opinion)",
+   "https://www.codeship.com/articles/the-pull-request-is-dead"
+  ],
+  [
+   "My AI swore all tests passed: proof-gate (Heinrich Neb; author sells cachly)",
+   "https://dev.to/heinrichneb/my-ai-said-all-tests-pass-it-had-run-74-of-our-105-test-files-4i3o"
+  ],
+  [
+   "Can Your Coding Agent Change Its Own Test Results? (Reid Marlow, on the SplitBench paper)",
+   "https://dev.to/reidmarlow/can-your-coding-agent-change-its-own-test-results-3o32"
+  ],
+  [
+   "We Automated the Software Factory. Why Am I Still Clicking Approve on Typo Fixes? (Emmanuel Mumba; Qodo early access, vendor)",
+   "https://dev.to/therealmrmumba/we-automated-the-software-factory-why-am-i-still-clicking-approve-on-typo-fixes-1fc1"
+  ],
+  [
+   "Faster CI with Orchestrated Pytest Workers (Close, Alec Rosenbaum)",
+   "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/"
+  ]
+ ],
+ "title": "Who Signs Off",
+ "description": "Anthropic's Claude Ship (vendor) splits post-PR work into a reviewer, a steward that can fix but never approve or merge, and a repo policy file that decides who must approve, with frank docs on every way a change can merge with nobody looking. Plus: Juraj Blahunka's overnight run where the model worked only 26% of the time, MONEI on GitHub webhooks that arrive late, twice or never, Evil Martians on whether types help agents, Datadog's Ephyra finding 535 bugs with agent-written test generators, Dex Horthy's 12 rules for a factory that doesn't ship slop, and 'The Pull Request Is Dead'. Practical idea: an approval policy file for Andrew's factory, run in observe mode first."
+}
