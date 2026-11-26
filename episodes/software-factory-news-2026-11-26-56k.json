@@ -1,0 +1,58 @@
+{
+ "sources": [
+  [
+   "Migrating our Messages API to Rust (Anthropic engineering; vendor)",
+   "https://www.anthropic.com/research/migrating-api-to-rust"
+  ],
+  [
+   "How Anthropic builds software in 2026 with Katelyn Lesse (The Pragmatic Engineer, Gergely Orosz)",
+   "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in"
+  ],
+  [
+   "Zero Backlog: A Canary in the Mine (Remo H. Jansen)",
+   "https://dev.to/remojansen/zero-backlog-a-canary-in-the-mine-of3"
+  ],
+  [
+   "What does your software factory cost? Simulator (Zarar Siddiqi)",
+   "https://zarar.dev/software-factory/"
+  ],
+  [
+   "Software factory simulation code (Zarar Siddiqi, GitHub)",
+   "https://github.com/Arsenalist/software-factory-simulation"
+  ],
+  [
+   "What does a software factory cost? (Hacker News discussion)",
+   "https://news.ycombinator.com/item?id=50646726"
+  ],
+  [
+   "Making agent retries safe across timeouts and restarts (deavgprime)",
+   "https://dev.to/deavgprime/making-agent-retries-safe-across-timeouts-and-restarts-448b"
+  ],
+  [
+   "Exit Code 0 Is the Weakest Evidence You Have (Debashish Ghosal; author's agentkeys project)",
+   "https://dev.to/debashish_ghosal/exit-code-0-is-the-weakest-evidence-you-have-48g0"
+  ],
+  [
+   "Your CI Pipeline Is a Non-Human Identity: retire its Azure client secret (Windows Mode)",
+   "https://dev.to/windowsmode/your-ci-pipeline-is-a-non-human-identity-here-is-how-to-retire-its-azure-client-secret-40mk"
+  ],
+  [
+   "GitHub Changelog: Copilot code review billing will default to the organization",
+   "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization/"
+  ],
+  [
+   "My AI Testers Aren't Allowed to Touch the Browser (Oscar Barrios, Agentic Test Explorer)",
+   "https://dev.to/srbarrios/my-ai-testers-arent-allowed-to-touch-the-browser-thats-why-their-bugs-are-reproducible-j7m"
+  ],
+  [
+   "Show HN: Merget, merge queue for agent PRs (vendor)",
+   "https://news.ycombinator.com/item?id=50622321"
+  ],
+  [
+   "Your CI Pipeline Failed. Don't Blame the Code Just Yet (Animesh Pathak)",
+   "https://dev.to/sonichigo/your-ci-pipeline-failed-dont-blame-the-code-just-yet-3koo"
+  ]
+ ],
+ "title": "Production Is the Oracle",
+ "description": "Anthropic's Messages API move to Rust (98% of tests passing, a quarter of production inputs matching) and its shadow, fingerprint and three-loop verification; Katelyn Lesse on Anthropic's review classifier and on-call agent; Remo Jansen's zero backlog; Zarar Siddiqi's software factory cost simulator; durable idempotency keys for agent retries; verifying the verifier; retiring Azure client secrets with OIDC; plus GitHub Copilot review billing, Agentic Test Explorer, Merget and CI failure triage. Practical idea: shadow and fingerprint your staging build."
+}
