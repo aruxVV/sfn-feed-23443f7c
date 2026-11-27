@@ -1,0 +1,38 @@
+{
+ "sources": [
+  [
+   "Lessons From Running a Team of AI Coding Agents on One Codebase (Piotr J. Borowiecki, SaaSy Land)",
+   "https://saasyland.com/blog/running-ai-coding-agents-in-parallel"
+  ],
+  [
+   "AI SDLC: 12 Parallel Agent PRs, Each Green Alone - Merge Queue vs \"Require Up to Date\", Measured (Manish Tiwari, Lamplit Labs; vendor)",
+   "https://blogs.lamplitlabs.com/posts/ai-sdlc-parallel-agent-prs-merge-queue-measured/"
+  ],
+  [
+   "AI Coding Agents: Teams and Software Factories Compared (Geeky Gadgets, summarising Ray Amjad's video; Devin Bots demo is vendor)",
+   "https://www.geeky-gadgets.com/coding-agents-teams-software-factories/"
+  ],
+  [
+   "Refactoring the engine: an incremental path to AI-assisted delivery (Moritz Wilke, Thoughtworks)",
+   "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/refactoring_the_engine_an_incremental_path_to_AI_assisted_delivery"
+  ],
+  [
+   "Inside a 16-role AI software factory, live testing caught bugs static checks missed (WittyWires Watch Desk summary, second-hand)",
+   "https://wittywires.com/forums/topic/inside-a-16-role-ai-software-factory-live-testing-caught-bugs-static-checks-missed/"
+  ],
+  [
+   "Move fast, don't break 100 apps: Dan Garfield on keeping AI-powered coding on the rails (The New Stack; Octopus Deploy, vendor)",
+   "https://thenewstack.io/ai-coding-delivery-bottleneck/"
+  ],
+  [
+   "zxkane/autonomous-dev-team (GitHub, open source)",
+   "https://github.com/zxkane/autonomous-dev-team"
+  ],
+  [
+   "Copilot code review billing will default to the organization (GitHub Changelog)",
+   "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization/"
+  ]
+ ],
+ "title": "Green Alone, Red Together",
+ "description": "Twelve agent pull requests, each green alone: saasyland.com's 145 agent PRs and the shared preview that was the real bottleneck, Lamplit Labs' measured merge queue vs require-up-to-date, Ray Amjad's factory-as-code replay ($940 to $630 per PR), Thoughtworks' one-sprint experiments, a 16-role factory, and Octopus Deploy on delivery. Plus a merge-tree rehearsal idea for your bots."
+}
